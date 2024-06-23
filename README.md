@@ -17,23 +17,23 @@ This project was inspired by the work of the agency featured on Awwwards, specif
 
 1. Clone the repository:
 
-   ````bash
-   git clone https://github.com/Bope142/react-interactive-menu-item.git ```
+   ```bash
+   git clone https://github.com/Bope142/react-interactive-menu-item.git
 
-   ````
+   ```
 
 2. Install dependencies:
 
-   ````bash
-   npm install ```
+   ```bash
+   npm install
 
-   ````
+   ```
 
 3. Start the development server:
 
-   ````bash
-   npm run dev```
-   ````
+   ```bash
+   npm run dev
+   ```
 
 ## Author
 
