@@ -1,0 +1,25 @@
+@import url("./font.css");
+@import url("./reset.css");
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: black;
+  background: rgb(207, 216, 217);
+}
+
+.container__app {
+  height: 200vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding: 100px;
+  justify-content: center;
+  row-gap: 250px;
+}
+
+h1 {
+  font-family: "Unbounded-Bold";
+  font-size: 6rem;
+}

@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Outfit-Black";
+  src: url("../fonts/Outfit-Black.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Outfit-Bold";
+  src: url("../fonts/Outfit-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Outfit-Medium";
+  src: url("../fonts/Outfit-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Outfit-Regular";
+  src: url("../fonts/Outfit-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Outfit-Light";
+  src: url("../fonts/Outfit-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Unbounded-Bold";
+  src: url("../fonts/Unbounded-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Unbounded-Medium";
+  src: url("../fonts/Unbounded-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Unbounded-Regular";
+  src: url("../fonts/Unbounded-Regular.ttf") format("truetype");
+}
