@@ -4,6 +4,10 @@ This project is a React application that provides an interactive experience with
 
 ![Tabbar UI Preview](./cover.png)
 
+## Inspiration
+
+This project was inspired by the work of the agency featured on Awwwards, specifically the [Wandergates](https://www.awwwards.com/sites/wandergates) site. I recreated a section in CSS to achieve a similar visual style and interactivity.
+
 ## Features
 
 - **Interactive Menu**: Select different profiles from the menu.
